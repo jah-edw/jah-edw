@@ -2,11 +2,11 @@
 
 ## I'm a Full Stack Developer, always looking to expand my skillset!
 
-🎨 I'm all about creating combining my creative and problem solving skills to develop scalable and reliable applications.
-🐛 I love a challenge, especially a tricky bug!
-💻 I've currently working on Adventour, a tour guide app that allows you to explore new environments based on your owns interests
-📖 I'm currently learning three.js and blender
-📈 2021 Goals: Contribute to Open Source Projects
+-🎨 I'm all about creating combining my creative and problem solving skills to develop scalable and reliable applications.
+-🐛 I love a challenge, especially a tricky bug!
+-💻 I've currently working on Adventour, a tour guide app that allows you to explore new environments based on your owns interests
+-📖 I'm currently learning three.js and blender
+-📈 2021 Goals: Contribute to Open Source Projects
 
 ### Connect with me:
 
@@ -23,10 +23,10 @@
 
 ### Favourite Technologies:
 
-→ TypeScript
-→ React & React Native
-→ Redux
-→ PostgresQL
+-→ TypeScript
+-→ React & React Native
+-→ Redux
+-→ PostgresQL
 
 [<img align="left" alt="typescript logo" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"/>][typescript]
 
@@ -35,9 +35,9 @@
 
 ### Outside of coding, I'm passionate about:
 
-🏕️ Teaching Expedition Training
-🐕‍🦺 Adventuring with my dog
-📚 Obsessively reading a whole book in a day and subsequently not reading for 3 months
+-🏕️ Teaching Expedition Training
+-🐕‍🦺 Adventuring with my dog
+-📚 Obsessively reading a whole book in a day and subsequently not reading for 3 months
 
 [linkedin]: https://www.linkedin.com/in/jess-edwards-429821165/
 [facebook]: https://www.facebook.com/jess.edwards.71404
