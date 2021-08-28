@@ -31,7 +31,7 @@
 [<img align="left" alt="react native logo" width="22px" src="https://reactnative.dev/img/header_logo.svg"/>][reactnative]
 [<img align="left" alt="redux logo" width="22px" src="https://redux.js.org/img/redux.svg"/>][redux]
 [<img align="left" alt="postgres logo" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"/>][postgres]
-[<img align="left" alt="mongoDB logo" width="22px" src="hhttps://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg"/>][mongodb]
+[<img align="left" alt="mongoDB logo" width="22px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg"/>][mongodb]
 
 <br/>
 <br/>
