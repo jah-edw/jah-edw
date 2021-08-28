@@ -2,21 +2,17 @@
 
 ## I'm a Full Stack Developer, always looking to expand my skillset!
 
--🎨 I'm all about creating combining my creative and problem solving skills to develop scalable and reliable applications.
+🎨 I'm all about creating combining my creative and problem solving skills to develop scalable and reliable applications.
 <br/>
-
--🐛 I love a challenge, especially a tricky bug!
+🐛 I love a challenge, especially a tricky bug!
 <br/>
-
--💻 I've currently working on Adventour, a tour guide app that allows you to explore new environments based on your owns interests
+💻 I've currently working on Adventour, a tour guide app that allows you to explore new environments based on your owns interests
 <br/>
-
--📖 I'm currently learning three.js and blender
+📖 I'm currently learning three.js and blender
 <br/>
+📈 2021 Goals: Contribute to Open Source Projects
 
--📈 2021 Goals: Contribute to Open Source Projects
-
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="Jess|LinkedIn" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-3.png"/>][linkedin]
 
@@ -43,9 +39,11 @@
 
 ### Outside of coding, I'm passionate about:
 
--🏕️ Teaching Expedition Training
--🐕‍🦺 Adventuring with my dog
--📚 Obsessively reading a whole book in a day and subsequently not reading for 3 months
+🏕️ Teaching Expedition Training
+<br/>
+🐕‍🦺 Adventuring with my dog
+<br/>
+📚 Obsessively reading a whole book in a day and subsequently not reading for 3 months
 
 [linkedin]: https://www.linkedin.com/in/jess-edwards-429821165/
 [facebook]: https://www.facebook.com/jess.edwards.71404
