@@ -10,4 +10,13 @@
 
 [<img align="left" alt="Jess|LinkedIn" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-3.png"/>][linkedin]
 
+[<img align="left" alt="Jess|Facebook" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-facebook-3.png"/>][facebook]
+
+[<img align="left" alt="Jess|Instagram" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2016/240/iconmonstr-instagram-11.png"/>][instagram]
+
+[<img align="left" alt="Jess|Twitter" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/96/iconmonstr-twitter-1.png"/>][twitter]
+
 [linkedin]: https://www.linkedin.com/in/jess-edwards-429821165/
+[facebook]: https://www.facebook.com/jess.edwards.71404
+[instagram]: https://www.instagram.com/_jahe/
+[twitter]: https://twitter.com/jah_edw
