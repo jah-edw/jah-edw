@@ -18,6 +18,9 @@
 
 [<img align="left" alt="Jess|Facebook" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-facebook-3.png"/>][facebook]
 
+<br/>
+<br/>
+
 ### Favourite Technologies:
 
 → TypeScript
@@ -26,6 +29,9 @@
 → PostgresQL
 
 [<img align="left" alt="typescript logo" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"/>][typescript]
+
+<br/>
+<br/>
 
 ### Outside of coding, I'm passionate about:
 
