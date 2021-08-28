@@ -3,9 +3,17 @@
 ## I'm a Full Stack Developer, always looking to expand my skillset!
 
 -🎨 I'm all about creating combining my creative and problem solving skills to develop scalable and reliable applications.
+<br/>
+
 -🐛 I love a challenge, especially a tricky bug!
+<br/>
+
 -💻 I've currently working on Adventour, a tour guide app that allows you to explore new environments based on your owns interests
+<br/>
+
 -📖 I'm currently learning three.js and blender
+<br/>
+
 -📈 2021 Goals: Contribute to Open Source Projects
 
 ### Connect with me:
