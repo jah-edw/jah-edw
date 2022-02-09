@@ -6,11 +6,8 @@
 <br/>
 🐛 I love a challenge, especially a tricky bug!
 <br/>
-💻 I've currently working on Adventour, a tour guide app that allows you to explore new environments based on your owns interests
-<br/>
-📖 I'm currently learning three.js and blender
-<br/>
-📈 2021 Goals: Contribute to Open Source Projects
+💻 I'm currently working on building content & developing coded examples for a React Lecture series!
+
 
 ## Connect with me:
 
