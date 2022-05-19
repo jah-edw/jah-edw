@@ -41,10 +41,6 @@
 <br/>
 📚 Obsessively reading a whole book in a day and subsequently not reading for 3 months
 
-[linkedin]: https://www.linkedin.com/in/jah-edw/
-[facebook]: https://www.facebook.com/jess.edwards.71404
-[instagram]: https://www.instagram.com/_jahe/
-[twitter]: https://twitter.com/jah_edw
 [typescript]: https://www.typescriptlang.org/
 [reactnative]: https://reactnative.dev/
 [redux]: https://redux.js.org/
