@@ -9,19 +9,6 @@
 💻 I'm currently working on building content & developing coded examples for a React Lecture series!
 
 
-## Connect with me:
-
-[<img align="left" alt="Jess|LinkedIn" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-3.png"/>][linkedin]
-
-[<img align="left" alt="Jess|Instagram" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2016/240/iconmonstr-instagram-11.png"/>][instagram]
-
-[<img align="left" alt="Jess|Twitter" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/96/iconmonstr-twitter-1.png"/>][twitter]
-
-[<img align="left" alt="Jess|Facebook" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-facebook-3.png"/>][facebook]
-
-<br/>
-<br/>
-
 ### Favourite Technologies:
 
 [<img align="left" alt="typescript logo" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"/>][typescript]
